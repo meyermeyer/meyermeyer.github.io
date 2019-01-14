@@ -1,5 +1,10 @@
 html {background-color: honeydew;}
 body 
 {margin:5% 5% 5% 5%;
+  border-radius: 15pk;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+  padding-right 80px;
 background-color: snow;}
-div id="header" p {font-style: oblique;}
+p {font-style: oblique;}
