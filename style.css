@@ -1,5 +1,5 @@
-
+html {background-color: honeydew;}
 body 
-{background-color: Snow;}
-{margin:5% 5% 5% 5%}
-p {font-style: oblique;}
+{background-color: Snow;
+margin:5% 5% 5% 5%}
+div id="header" p {font-style: oblique;}
